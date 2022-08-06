@@ -1,2 +1,4 @@
 hello world on Odin
 add this line to try commit message using vscode
+the coomand on terminal is
+git config --global core.editor "code --wait"
